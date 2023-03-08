@@ -1,6 +1,12 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+# deploy-link
+https://tukeshwari-order-summury-card.netlify.app/
+# desktop-view
+![desktop-preview](https://user-images.githubusercontent.com/102142382/223818619-062a2e57-2e38-4a13-bbcb-c09ea598972f.jpg)
+
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223818708-e80b6b6a-3238-4073-93ae-2a0081be6743.jpg)
 
 ## Welcome! 👋
 
